@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app/                → Contains main application code (Models, Controllers, Providers, etc.)
